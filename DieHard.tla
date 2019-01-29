@@ -14,7 +14,7 @@ FillSmall ==
     /\ big' = big
 
 FillBig == 
-    /\ big' = 3
+    /\ big' = 5
     /\ small' = small
 
 EmptySmall == 
